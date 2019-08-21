@@ -1,6 +1,6 @@
 # drumkit
 
-`git@github.com:jcalhoon21/drumkit.git`
+`git clone git@github.com:jcalhoon21/drumkit.git`
 
 `cd drumkit`
 
